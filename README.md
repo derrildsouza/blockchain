@@ -1,3 +1,3 @@
 # blockchain
 
-![verus_intallations](https://github.com/derrildsouza/blockchain/assets/64513486/219c5eca-0aba-4258-9d5f-7cadb0007e24)
+![full_installation_of_verus](https://github.com/derrildsouza/blockchain/assets/64513486/b3723365-0e7c-4970-a8e4-ba50d7086f38)
